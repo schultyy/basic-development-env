@@ -20,6 +20,3 @@ source /etc/profile.d/rvm.sh
 #Install ruby 2.1
 rvm install ruby-2.1 --default
 
-#gem install bundler
-#gem install rails
-
