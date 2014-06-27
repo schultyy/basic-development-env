@@ -17,7 +17,7 @@ $ vagrant ssh
 
 # I want a different Box
 
-Got to `https://vagrantcloud.com/discover/featured` and pick a box.
+Got to [https://vagrantcloud.com/discover/featured](https://vagrantcloud.com/discover/featured) and pick a box.
 Open `Vagrantfile`, then edit this line:
 
 ```Ruby
