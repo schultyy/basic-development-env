@@ -4,7 +4,7 @@
 sudo apt-get update
 
 #-y means 'assumes yes', so it does not ask
-# 'Do you want to install? [y,n]
+# 'Do you want to install? [y,n]' but just installs and done
 
 #First install curl
 sudo apt-get install -y curl
